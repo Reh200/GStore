@@ -15,5 +15,5 @@ public class Categoria
     public string Nome { get; set; }
 
     [StringLength(300)]
-    public string Foto { get; set; }      
+    public string Foto { get; set; }
 }
