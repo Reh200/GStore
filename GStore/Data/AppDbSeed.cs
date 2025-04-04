@@ -189,7 +189,7 @@ public class AppDbSeed
                 EmailConfirmed = true,
                 Nome = "Aline Renata Botaro",
                 DataNascimento = DateTime.Parse("11/05/2006"),
-                Foto = "/img/usuarios/ddf093a6-6cb5-4ff7-9a64-83da34aee005.png"
+                Foto = "/img/usuarios/piupiu.webp"
             }
         };
         foreach (var user in usuarios)
