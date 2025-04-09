@@ -10,7 +10,7 @@
     Passo para criação do projeto:
         dotnet new sln --name GStore
         dotnet new mvc -o GStore
-        dotnet sln add EagleStore\GStore.csproj
+        dotnet sln add GStore.csproj
 ##
 
 ##
